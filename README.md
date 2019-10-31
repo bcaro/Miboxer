@@ -15,7 +15,7 @@ It is then possible to dialog with Tuya devices in LAN mode i.e. without interne
 
 For the Miboxer box a new app MiBoxer is used to dialog with bulbs but the VPN used by packet capture is detected by the app and it is not possible to retrive Id and key.
 
-Fortunetly, It is possible to pair the MiBoxer bridge with SmartFile and then to obtain the key. But the only commands that are available in LAN mode are:
+Fortunetly, It is possible to pair the MiBoxer bridge with Smart Live and then to obtain the key. But the only commands that are available in LAN mode are:
 
 {dps:{"20":false}} {dps:{"20":true}}
 
