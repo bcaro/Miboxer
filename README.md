@@ -19,7 +19,7 @@ Fortunetly, It is possible to pair the MiBoxer bridge with Smart Live and then t
 
 {dps:{"20":false}} {dps:{"20":true}}
 
-The other commands for brightness, color, kelvin givern by SmartLive are not available for the MiBoxer.
+The other commands for brightness, color, kelvin given by SmartLive are not available for the MiBoxer.
 
 
 
